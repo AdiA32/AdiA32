@@ -29,7 +29,15 @@ The resulting model aims to provide a robust and efficient solution for predicti
 
 # [Project Mentality](https://github.com/AdiA32/Mentality)
 ### *(Python, Automation, Mobile-Integration, Web scrapping)*
-Automated program that deploys daily to give curated quotes from famous thinkers to my phone via SMS. Developed to motivate me daily to do better. 
+The "Project Mentality" is an automated program designed to deliver daily curated quotes from famous thinkers to the user's phone via SMS. Its main purpose is to provide motivation and inspiration for personal improvement on a daily basis.
+
+The program employs web scraping techniques to gather quotes from various online sources such as websites, blogs, and social media platforms. The scraped data undergoes analysis and data cleaning processes to ensure the accuracy and relevance of the quotes, eliminating any errors or inconsistencies.
+
+Using Python, the program is automated to deploy daily and send the curated quotes directly to the user's phone as SMS messages. This automation is achieved by integrating APIs or third-party services that enable sending SMS messages from a Python script. By integrating with SMS gateway providers, the program ensures seamless delivery of the curated quotes, providing a convenient and accessible user experience.
+
+Furthermore, the project involves learning advanced techniques for automated web deployment. This includes setting up a reliable hosting environment using containerization technologies like Docker and leveraging cloud platforms such as AWS or Google Cloud for efficient scaling and management.
+
+In summary, the "Project Mentality" is an automated program that delivers daily curated quotes to the user's phone via SMS. Through web scraping, data cleaning, and mobile integration, it aims to motivate users and inspire personal growth. The project also emphasizes learning advanced techniques for automated web deployment to ensure smooth operation and scalability.
 
 # [Python BlackJack Simulation](https://github.com/AdiA32/Project-Blackjack)
 In this project, I implement a Python simulation of a Blackjack game using object-oriented programming techniques. Blackjack is a card game typically played at casinos where each player competes against the dealer to get a score closest to 21, without going over 21. At the start of the game, each player and the dealer are given 2 cards. A person's set of cards is referred to as their hand. The player's own cards (their hand) are visible to themselves and only one of the dealer's cards is visible to everyone. After everyone receives their cards, the dealer asks each player whether they would like to hit (take another card) or stand (keep their current cards). Each player can hit (take a card) as many times as they would like to get their score as close to 21 as possible, without going over. Afterwards, the dealer reveals their card and decides to hit or stand. Lastly, the final scores are calculated and the winner is announced
