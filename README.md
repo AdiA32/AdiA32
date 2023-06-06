@@ -7,7 +7,7 @@
 
 # [S&P 500 STOCK RECOMMENDATION PROJECT (Work In Progress)](https://github.com/AdiA32/SP500-ML-Project)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALIZATION)*
-### [Poster](#stocks-poster)
+## [Poster](#stocks-poster)
 <!-- **(WIP)** This is an ongoing project as part of the UCSD *Data Science Student Society(DS3) Projects Committee 2023*. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e using AI and ML models to predict the Opening Price movement of a given stock. Given this background, we approached this challenge in 2 ways:
 
 * **Financial Modelling** - Predicted Opening Stock Price of Google Stocks (GOOGL)  using- Random Forests, LSTMs, Koopman Neural Networks, all implemented in Python with TensorFlow and scikit-learn packages.
@@ -67,5 +67,5 @@ In this project, I implement a Python simulation of a Blackjack game using objec
 
 
 ### Stocks Poster
-<img src="stocks v2.png"
+<img src="stocks poster.png"
      alt="Poster Presentation found at https://github.com/AdiA32/SP500-ML-Project/blob/8108dc4d7da7ba720e47e155f334ca02ccc29a0d/stocks%20v2.pdf"/>
