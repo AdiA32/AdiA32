@@ -1,6 +1,7 @@
 # Aditya Agrawal
  - UCSD Data Science and Cognitive Science with Machine Learning and Neural Computation
  - Open for full time positions and internships
+ - Graduating 2024 (next year)
 
 
 **Click on the links below to view the repository of the project**
