@@ -7,7 +7,7 @@
 
 # [S&P 500 STOCK RECOMMENDATION PROJECT (Work In Progress)](https://github.com/AdiA32/SP500-ML-Project)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALIZATION)*
-## [Poster](#stocks-poster)
+check out this [poster](#stocks-poster) for a deeper overview!
 <!-- **(WIP)** This is an ongoing project as part of the UCSD *Data Science Student Society(DS3) Projects Committee 2023*. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e using AI and ML models to predict the Opening Price movement of a given stock. Given this background, we approached this challenge in 2 ways:
 
 * **Financial Modelling** - Predicted Opening Stock Price of Google Stocks (GOOGL)  using- Random Forests, LSTMs, Koopman Neural Networks, all implemented in Python with TensorFlow and scikit-learn packages.
@@ -19,7 +19,9 @@ This project aims to optimize stock portfolio allocation utilizing a blend of LS
 We selected LSTM for its capability to capture long-term dependencies and handle non-stationarity in stock prices. However, it does not account for the Random Walk Hypothesis. The LSTM model demonstrated reasonable accuracy in predicting Google's opening price movements, albeit with an average overprediction of $3.04 per day.
 
 ## Sentiment Analysis
-Sentiment analysis uses data from Twitter and news outlets processed by two NLP models, VADER and BERT. VADER is simple and resource-efficient but struggles with complex sentences, whereas BERT excels at understanding sentence context but requires substantial resources. Sentiments are aggregated from Twitter and news sources using a weighted approach.
+I first systematically extract data big news and financial websites like Motley Fool, Yahoo Finance, Bloomberg, The Wall Street Journal, Reuters, Fortune, Business Wire, TheStreet.com, and sort for news on anything that might affect any given stock. It then processes and runs sentiment scores on 100+ articles per stock and finally returns the sentiment scores and over a week's period of time. This methodology inspects the other side of trading: emotions, and gives us a sense of recent market happenings that provide for a deeper analysis.
+
+VADER: Used VADER, rule-based sentiment analysis tool. Strengths include simplicity, ease of interpretation, and low computational resource requirements. However, it struggles with complex sentences and sarcasm. Luckily, news channels seem to have straightforward sentiment. Pros: Dynamic and complete overview of stock sentiment. Many news sources. Cons: Reliance on textual analysis may miss nuanced implications of financial metrics. Accuracy may be influenced by potential biases in sourced articles.
 
 ## Portfolio Optimization
 The Efficient Markets Problem is circumvented using Modern Portfolio Theory, focusing on Return and Risk rather than predicting price. The Efficient Frontier is graphed, providing a visual representation of the optimal portfolio combinations for the highest expected return for a given risk level or vice versa.
