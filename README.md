@@ -28,9 +28,9 @@ The Efficient Markets Problem is circumvented using Modern Portfolio Theory, foc
 Future steps encompass enhancing sentiment analysis, exploring other deep learning models like CNNs or transformer models for stock predictions, investigating advanced portfolio optimization methods, developing a real-time portfolio recommendation tool, improving model interpretability, and establishing performance metrics via backtesting.
 
 
-# [FAKE AMAZON REVIEWS PROJECT](https://github.com/sukikrishna/FARS)
-### *(ML, DECISION TREES, RANDOM FOREST CLASSIFIERS,LINEAR ALGEBRA, NLP, N-Grams Classification)*
-
+# [Predicting Power Outages](https://adia32.github.io/poweroutages/)
+### *(Data Analysis, Machine Learning, Hypothesis Testing, NMAR analysis, Visualization, Supervised Learning)*
+Just check out the website linked above! This project is presented amazingly when I first started working with Github Pages! The website is still a work in progress and I am working on the prediction part. Timeline: will be done in 1 week (6/10/2023). 
 
 
 
@@ -47,6 +47,22 @@ Additionally, sentiment analysis techniques are applied to analyze the sentiment
 Throughout the project, various tools and techniques such as preprocessing, feature engineering, and model optimization are employed. Steps like tokenization, stop word removal, and stemming are applied to clean and standardize the text data. Feature engineering techniques such as TF-IDF assign weights to the n-grams based on their relevance. Cross-validation and hyperparameter tuning ensure optimal performance of the random forest models.
 
 The resulting model aims to provide a robust and efficient solution for predicting the validity of mock Amazon product reviews. Such a tool has the potential to automate the review classification process, enhance quality control, and improve the overall credibility of product reviews on Amazon's platform.
+
+
+# [BookGPT Language Model](https://github.com/AdiA32/BookGPT-Language-Model)
+### *(Data Scraping, Creating Corpus, Tokenization, Model Building, N-Grams Classification)*
+Driven by my fascination with the revolutionary Chat GPT and an eagerness to delve into the underpinnings of such a technology, I embarked on an exploratory journey to design my own language model. This project allowed me to apply and expand upon my pre-existing Python programming skills and dive into the enthralling world of Natural Language Processing (NLP).
+
+This project employed various computational linguistics techniques, such as tokenization, data scraping, and corpus creation, utilizing the Project Gutenberg library as a primary source of data. Data scraping was employed to gather textual data from the internet, particularly from Project Gutenberg, a vast library of over 60,000 free eBooks. Python libraries like Beautiful Soup and requests were used to aid this process, extracting content from the website and storing it for subsequent processing. After which I created custom tokenization functions and built a corpus. 
+
+The essence of the project involved constructing an N-gram language model, a powerful, probabilistic technique used to predict the next item in a sequence. Despite its apparent simplicity, the N-gram model forms the backbone of many language model systems, including earlier versions of Chat GPT.
+
+The engineering process started with data collection and pre-processing, where I demonstrated my dexterity in data manipulation using Numpy and Pandas, essential Python libraries renowned for their efficiency. To build the model, I wrote a recursive function to compute the conditional probabilities of words given their preceding context, thereby grasping the intricacies of recursive design.
+
+A noteworthy feature of my project was successfully compute the frequencies and probabilities of different N-grams and create a language model capable of generating coherent sentences. In the testing phase, I focused on evaluating the model's performance and adjusting the parameters for improved text generation. The project culminated with a language model that managed to generate relatively coherent sentences, shedding light on how state-of-the-art models like Chat GPT could operate.
+
+Throughout the process, I not only enhanced my programming skills but also gained a profound understanding of NLP, probabilistic models, and the core concepts of language model development. My foray into this project was a testament to my curiosity, technical aptitude, and drive to understand and replicate cutting-edge AI technology.
+
 
 # [Project Mentality](https://github.com/AdiA32/Mentality)
 ### *(Python, Automation, Mobile-Integration, Web scrapping)*
@@ -66,6 +82,6 @@ In this project, I implement a Python simulation of a Blackjack game using objec
 
 
 
-### Stocks Poster
+# Stocks Poster
 <img src="stocks poster.png"
      alt="Poster Presentation found at https://github.com/AdiA32/SP500-ML-Project/blob/8108dc4d7da7ba720e47e155f334ca02ccc29a0d/stocks%20v2.pdf"/>
