@@ -1,12 +1,13 @@
 # Aditya Agrawal
--UCSD - Data Science and Cognitive Science with Machine Learning and Neural Computation
--Open for full time positions and internships
+ - UCSD Data Science and Cognitive Science with Machine Learning and Neural Computation
+ - Open for full time positions and internships
 
 
 **Click on the links below to view the repository of the project**
 
-# [S&P 500 STOCK RECOMMENDATION PROJECT](https://github.com/AdiA32/SP500-ML-Project)
-### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALISATION)*
+# [S&P 500 STOCK RECOMMENDATION PROJECT (Work In Progress)](https://github.com/AdiA32/SP500-ML-Project)
+### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALIZATION)*
+### [Poster](#stocks-poster)
 <!-- **(WIP)** This is an ongoing project as part of the UCSD *Data Science Student Society(DS3) Projects Committee 2023*. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e using AI and ML models to predict the Opening Price movement of a given stock. Given this background, we approached this challenge in 2 ways:
 
 * **Financial Modelling** - Predicted Opening Stock Price of Google Stocks (GOOGL)  using- Random Forests, LSTMs, Koopman Neural Networks, all implemented in Python with TensorFlow and scikit-learn packages.
@@ -25,6 +26,12 @@ The Efficient Markets Problem is circumvented using Modern Portfolio Theory, foc
 
 ## Future Direction
 Future steps encompass enhancing sentiment analysis, exploring other deep learning models like CNNs or transformer models for stock predictions, investigating advanced portfolio optimization methods, developing a real-time portfolio recommendation tool, improving model interpretability, and establishing performance metrics via backtesting.
+
+
+# [FAKE AMAZON REVIEWS PROJECT](https://github.com/sukikrishna/FARS)
+### *(ML, DECISION TREES, RANDOM FOREST CLASSIFIERS,LINEAR ALGEBRA, NLP, N-Grams Classification)*
+
+
 
 
 # [FAKE AMAZON REVIEWS PROJECT](https://github.com/sukikrishna/FARS)
@@ -55,3 +62,10 @@ In summary, the "Project Mentality" is an automated program that delivers daily 
 
 # [Python BlackJack Simulation](https://github.com/AdiA32/Project-Blackjack)
 In this project, I implement a Python simulation of a Blackjack game using object-oriented programming techniques. Blackjack is a card game typically played at casinos where each player competes against the dealer to get a score closest to 21, without going over 21. At the start of the game, each player and the dealer are given 2 cards. A person's set of cards is referred to as their hand. The player's own cards (their hand) are visible to themselves and only one of the dealer's cards is visible to everyone. After everyone receives their cards, the dealer asks each player whether they would like to hit (take another card) or stand (keep their current cards). Each player can hit (take a card) as many times as they would like to get their score as close to 21 as possible, without going over. Afterwards, the dealer reveals their card and decides to hit or stand. Lastly, the final scores are calculated and the winner is announced
+
+
+
+
+### Stocks Poster
+<img src="stocks v2.png"
+     alt="Poster Presentation found at https://github.com/AdiA32/SP500-ML-Project/blob/8108dc4d7da7ba720e47e155f334ca02ccc29a0d/stocks%20v2.pdf"/>
