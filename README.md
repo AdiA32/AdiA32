@@ -5,13 +5,15 @@
 
 **Click on the links below to view the repository of the project**
 
-# [S&P 500 STOCK RECOMMENDATION PROJECT (Work In Progress)](https://github.com/AdiA32/SP500-ML-Project)
+# [S&P 500 STOCK RECOMMENDATION PROJECT](https://github.com/AdiA32/SP500-ML-Project)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALIZATION)*
-check out this [poster](#stocks-poster) for a deeper overview!
+***check out this [POSTER](#stocks-poster) for a visual and deeper overview!***
+
 <!-- **(WIP)** This is an ongoing project as part of the UCSD *Data Science Student Society(DS3) Projects Committee 2023*. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e using AI and ML models to predict the Opening Price movement of a given stock. Given this background, we approached this challenge in 2 ways:
 
 * **Financial Modelling** - Predicted Opening Stock Price of Google Stocks (GOOGL)  using- Random Forests, LSTMs, Koopman Neural Networks, all implemented in Python with TensorFlow and scikit-learn packages.
 * **Scraping Twitter** -  We used the Twitter API to perform Sentiment Analysis on tweets that referenced a given stock and tried to build a system to analyse whether the Twitter sentiment has an effect on the opening Price of the stock.  -->
+
 ## Project Introduction
 This project aims to optimize stock portfolio allocation utilizing a blend of LSTM models, sentiment analysis, and portfolio optimization techniques. LSTM models forecast stock movements, while sentiment analysis gleans insights from Twitter and news data. Recommendations from these techniques are optimized through an Efficient Frontier model to maximize return for a given risk level.
 
@@ -32,6 +34,8 @@ Future steps encompass enhancing sentiment analysis, exploring other deep learni
 
 # [Predicting Power Outages](https://adia32.github.io/poweroutages/)
 ### *(Data Analysis, Machine Learning, Hypothesis Testing, NMAR analysis, Visualization, Supervised Learning)*
+*[Website](https://adia32.github.io/poweroutages/)*
+
 Just check out the website linked above! This project is presented amazingly when I first started working with Github Pages! The website is still a work in progress and I am working on the prediction part. Timeline: will be done in 1 week (6/10/2023). 
 
 
