@@ -8,6 +8,10 @@
 
 # [S&P 500 STOCK RECOMMENDATION PROJECT](https://github.com/AdiA32/SP500-ML-Project)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALIZATION)*
+<a href="#stocks-poster">
+     <img scr="stocks poster.png" width=150 height=100 alt="poster icon" >
+</a>
+
 ***check out this [POSTER](#stocks-poster) for a visual and deeper overview!***
 
 <!-- **(WIP)** This is an ongoing project as part of the UCSD *Data Science Student Society(DS3) Projects Committee 2023*. This project began with a dataset of historical S&P 500 data and an original goal of building a stock recommendation system - i.e using AI and ML models to predict the Opening Price movement of a given stock. Given this background, we approached this challenge in 2 ways:
@@ -29,12 +33,17 @@ VADER: Used VADER, rule-based sentiment analysis tool. Strengths include simplic
 ## Portfolio Optimization
 The Efficient Markets Problem is circumvented using Modern Portfolio Theory, focusing on Return and Risk rather than predicting price. The Efficient Frontier is graphed, providing a visual representation of the optimal portfolio combinations for the highest expected return for a given risk level or vice versa.
 
-## Future Direction
+## Future Direbundle exec jekyll new --force --skip-bundle .
+ction
 Future steps encompass enhancing sentiment analysis, exploring other deep learning models like CNNs or transformer models for stock predictions, investigating advanced portfolio optimization methods, developing a real-time portfolio recommendation tool, improving model interpretability, and establishing performance metrics via backtesting.
 
 
 # [Predicting Power Outages](https://adia32.github.io/poweroutages/)
 ### *(Data Analysis, Machine Learning, Hypothesis Testing, NMAR analysis, Visualization, Supervised Learning)*
+<a href="https://adia32.github.io/poweroutages/" target="_blank">
+     <img scr="mini_site.png" width=100 height=100 alt="website icon" >
+</a>
+
 *[Website](https://adia32.github.io/poweroutages/)*
 
 Just check out the website linked above! This project is presented amazingly when I first started working with Github Pages! The website is still a work in progress and I am working on the prediction part. Timeline: will be done in 1 week (6/10/2023). 
