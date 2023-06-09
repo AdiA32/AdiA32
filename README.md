@@ -9,7 +9,7 @@
 # [S&P 500 STOCK RECOMMENDATION PROJECT](https://github.com/AdiA32/SP500-ML-Project)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALIZATION)*
 <a href="#stocks-poster">
-     <img scr="stocks poster.png" width=150 height=100 alt="poster icon" >
+     <img src="stocks poster.png"  width="20%"  alt="poster icon" >
 </a>
 
 ***check out this [POSTER](#stocks-poster) for a visual and deeper overview!***
@@ -41,7 +41,7 @@ Future steps encompass enhancing sentiment analysis, exploring other deep learni
 # [Predicting Power Outages](https://adia32.github.io/poweroutages/)
 ### *(Data Analysis, Machine Learning, Hypothesis Testing, NMAR analysis, Visualization, Supervised Learning)*
 <a href="https://adia32.github.io/poweroutages/" target="_blank">
-     <img scr="mini_site.png" width=100 height=100 alt="website icon" >
+     <img src="mini_site.png"  width="20%"  alt="website icon" >
 </a>
 
 *[Website](https://adia32.github.io/poweroutages/)*
