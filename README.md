@@ -33,17 +33,20 @@ VADER: Used VADER, rule-based sentiment analysis tool. Strengths include simplic
 ## Portfolio Optimization
 The Efficient Markets Problem is circumvented using Modern Portfolio Theory, focusing on Return and Risk rather than predicting price. The Efficient Frontier is graphed, providing a visual representation of the optimal portfolio combinations for the highest expected return for a given risk level or vice versa.
 
-## Future Direbundle exec jekyll new --force --skip-bundle .
-ction
+## Future Direction
 Future steps encompass enhancing sentiment analysis, exploring other deep learning models like CNNs or transformer models for stock predictions, investigating advanced portfolio optimization methods, developing a real-time portfolio recommendation tool, improving model interpretability, and establishing performance metrics via backtesting.
 
 
 # [Predicting Power Outages](https://adia32.github.io/poweroutages/)
 ### *(Data Analysis, Machine Learning, Hypothesis Testing, NMAR analysis, Visualization, Supervised Learning)*
-<a href="https://adia32.github.io/poweroutages/" target="_blank">
+<!-- <a href="https://adia32.github.io/poweroutages/" target="_blank">
      <img src="mini_site.png"  width="20%"  alt="website icon" >
-</a>
+</a> -->
 
+<div style="width:100%; padding-bottom:56.25%; position:relative;">
+  <iframe src="https://adia32.github.io/poweroutages/" style="position:absolute; top:0px; left:0px; 
+  width:100%; height:100%; border: none; overflow: hidden;"></iframe>
+</div>
 *[Website](https://adia32.github.io/poweroutages/)*
 
 Just check out the website linked above! This project is presented amazingly when I first started working with Github Pages! The website is still a work in progress and I am working on the prediction part. Timeline: will be done in 1 week (6/10/2023). 
@@ -101,3 +104,4 @@ In this project, I implement a Python simulation of a Blackjack game using objec
 # Stocks Poster
 <img src="stocks poster.png"
      alt="Poster Presentation found at https://github.com/AdiA32/SP500-ML-Project/blob/8108dc4d7da7ba720e47e155f334ca02ccc29a0d/stocks%20v2.pdf"/>
+Presented at UCSD Supercomputer Center by Aditya Agrawal - Project Team Head  
