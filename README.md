@@ -49,7 +49,9 @@ Future steps encompass enhancing sentiment analysis, exploring other deep learni
 </div>
 *[Website](https://adia32.github.io/poweroutages/)*
 
-Just check out the website linked above! This project is presented amazingly when I first started working with Github Pages! The website is still a work in progress and I am working on the prediction part. Timeline: will be done in 1 week (6/10/2023). 
+Just check out the website linked above! This project is presented amazingly when I first started working with Github Pages! The second part is linked here: 
+
+[Predictive Work](https://adia32.github.io/power-outages-ml/)
 
 
 
