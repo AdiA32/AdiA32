@@ -55,7 +55,7 @@ Just check out the website linked above! This project is presented amazingly whe
 
 
 
-# [FAKE AMAZON REVIEWS PROJECT](https://github.com/sukikrishna/FARS)
+# [AMAZON REVIEWS PROJECT](https://github.com/sukikrishna/FARS)
 ### *(ML, DECISION TREES, RANDOM FOREST CLASSIFIERS,LINEAR ALGEBRA, NLP, N-Grams Classification)*
 The project revolves around the development of a model to predict the validity of mock Amazon product reviews. By utilizing n-grams, random forest machine learning models, sentiment analysis, and other tools, the goal is to create an accurate and reliable solution. Data from Amazon's extensive database of product reviews serves as the foundation for this project.
 
