@@ -36,8 +36,7 @@ The Efficient Markets Problem is circumvented using Modern Portfolio Theory, foc
 ## Future Direction
 Future steps encompass enhancing sentiment analysis, exploring other deep learning models like CNNs or transformer models for stock predictions, investigating advanced portfolio optimization methods, developing a real-time portfolio recommendation tool, improving model interpretability, and establishing performance metrics via backtesting.
 
-changes made
-<a id="testing"></a>
+
 # [Predicting Power Outages](https://adia32.github.io/poweroutages/)
 ### *(Data Analysis, Machine Learning, Hypothesis Testing, NMAR analysis, Visualization, Supervised Learning)*
 <!-- <a href="https://adia32.github.io/poweroutages/" target="_blank">
@@ -55,7 +54,7 @@ Just check out the website linked above! This project is presented amazingly whe
 [Predictive Work](https://adia32.github.io/power-outages-ml/)
 
 
-
+<a name='testing'></a>
 # [AMAZON REVIEWS PROJECT](https://github.com/sukikrishna/FARS)
 ### *(ML, DECISION TREES, RANDOM FOREST CLASSIFIERS,LINEAR ALGEBRA, NLP, N-Grams Classification)*
 The project revolves around the development of a model to predict the validity of mock Amazon product reviews. By utilizing n-grams, random forest machine learning models, sentiment analysis, and other tools, the goal is to create an accurate and reliable solution. Data from Amazon's extensive database of product reviews serves as the foundation for this project.
