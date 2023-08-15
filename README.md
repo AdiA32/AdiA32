@@ -6,6 +6,8 @@
 
 **Click on the links below to view the repository of the project**
 
+<a name='stocks'></a>
+
 # [S&P 500 STOCK RECOMMENDATION PROJECT](https://github.com/AdiA32/SP500-ML-Project)
 ### *(ML,LSTM,NLP,DEEP LEARNING, FINANCIAL MODELLING, VISUALIZATION)*
 <a href="#stocks-poster">
@@ -36,6 +38,7 @@ The Efficient Markets Problem is circumvented using Modern Portfolio Theory, foc
 ## Future Direction
 Future steps encompass enhancing sentiment analysis, exploring other deep learning models like CNNs or transformer models for stock predictions, investigating advanced portfolio optimization methods, developing a real-time portfolio recommendation tool, improving model interpretability, and establishing performance metrics via backtesting.
 
+<a name='poweroutages'></a>
 
 # [Predicting Power Outages](https://adia32.github.io/poweroutages/)
 ### *(Data Analysis, Machine Learning, Hypothesis Testing, NMAR analysis, Visualization, Supervised Learning)*
@@ -53,9 +56,7 @@ Just check out the website linked above! This project is presented amazingly whe
 
 [Predictive Work](https://adia32.github.io/power-outages-ml/)
 
-worked
-
-<a name='testing'></a>
+<a name='amazon'></a>
 
 # [AMAZON REVIEWS PROJECT](https://github.com/sukikrishna/FARS)
 ### *(ML, DECISION TREES, RANDOM FOREST CLASSIFIERS,LINEAR ALGEBRA, NLP, N-Grams Classification)*
@@ -71,6 +72,7 @@ Throughout the project, various tools and techniques such as preprocessing, feat
 
 The resulting model aims to provide a robust and efficient solution for predicting the validity of mock Amazon product reviews. Such a tool has the potential to automate the review classification process, enhance quality control, and improve the overall credibility of product reviews on Amazon's platform.
 
+<a name='bookgpt'></a>
 
 # [BookGPT Language Model](https://github.com/AdiA32/BookGPT-Language-Model)
 ### *(Data Scraping, Creating Corpus, Tokenization, Model Building, N-Grams Classification)*
@@ -86,6 +88,18 @@ A noteworthy feature of my project was successfully compute the frequencies and 
 
 Throughout the process, I not only enhanced my programming skills but also gained a profound understanding of NLP, probabilistic models, and the core concepts of language model development. My foray into this project was a testament to my curiosity, technical aptitude, and drive to understand and replicate cutting-edge AI technology.
 
+<a name='google'></a>
+
+# [Google](https://github.com/AdiA32/Mentality)
+### *(Python, Automation, Mobile-Integration, Web scrapping)*
+Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.
+
+
+
+
+
+
+<a name='mentality'></a>
 
 # [Project Mentality](https://github.com/AdiA32/Mentality)
 ### *(Python, Automation, Mobile-Integration, Web scrapping)*
