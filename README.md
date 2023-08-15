@@ -36,7 +36,7 @@ The Efficient Markets Problem is circumvented using Modern Portfolio Theory, foc
 ## Future Direction
 Future steps encompass enhancing sentiment analysis, exploring other deep learning models like CNNs or transformer models for stock predictions, investigating advanced portfolio optimization methods, developing a real-time portfolio recommendation tool, improving model interpretability, and establishing performance metrics via backtesting.
 
-
+<a id="testing"></a>
 # [Predicting Power Outages](https://adia32.github.io/poweroutages/)
 ### *(Data Analysis, Machine Learning, Hypothesis Testing, NMAR analysis, Visualization, Supervised Learning)*
 <!-- <a href="https://adia32.github.io/poweroutages/" target="_blank">
