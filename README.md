@@ -3,6 +3,10 @@
  - Open for full time positions and internships
  - Graduating December 2024 (next year)
 
+Below is a little bit more in-depth for the projects I have created, and showcases my thought process and also gives more ease in understanding what exactly was made. 
+
+<!-- 
+If you dont care about my projects and just want to know more about me click here, -->
 
 **Click on the links below to view the repository of the project**
 
