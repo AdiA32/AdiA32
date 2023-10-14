@@ -1,7 +1,7 @@
 # Aditya Agrawal
  - UCSD Data Science and Cognitive Science with Machine Learning and Neural Computation
  - Open for full time positions and internships
- - Graduating 2024 (next year)
+ - Graduating December 2024 (next year)
 
 
 **Click on the links below to view the repository of the project**
@@ -92,8 +92,9 @@ Throughout the process, I not only enhanced my programming skills but also gaine
 
 # [Google](https://github.com/AdiA32/Mentality)
 ### *(Python, Automation, Mobile-Integration, Web scrapping)*
-Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.Write up to be made.
+I created a search engine platform that harnessed the power of Google's Feature Snippets technology, seamlessly integrated behind the scenes. Leveraging my technical expertise in web scraping and data extraction, I architected a robust system utilizing Python, Beautiful Soup, and JavaScript. Python, with its versatile libraries, served as the backbone for data retrieval, while Beautiful Soup was instrumental in parsing and structuring the acquired web content. This enabled us to extract relevant information efficiently. To augment the user experience, JavaScript was employed to enhance the platform's interactivity, enabling dynamic content updates and responsive user interfaces.
 
+One of the standout achievements of this project was the seamless integration of Google Feature Snippets. Through meticulous reverse engineering and API utilization, I ensured that our search engine could leverage Google's advanced snippet generation algorithms to provide users with concise and contextually relevant information directly in the search results. This implementation required a deep understanding of web crawling techniques and data manipulation to ensure real-time synchronization with Google's search index. Additionally, I implemented robust error handling and monitoring systems to maintain the platform's reliability and performance, making it a powerful tool for information retrieval. This project not only showcased my technical prowess but also demonstrated my ability to leverage cutting-edge technologies to create practical solutions in the field of information retrieval and search engine development.
 
 
 
